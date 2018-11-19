@@ -30,6 +30,7 @@ A curated catalog of iOS development resources
 	* [Sourcery](https://github.com/krzysztofzablocki/Sourcery)
 	* [Swagger Codegen](https://swagger.io/tools/swagger-codegen)
 	* [GYB](https://nshipster.com/swift-gyb)
+	* [SwiftColorGen](https://github.com/fernandodelrio/SwiftColorGen)
 - Objective-C
 	* [Swagger Codegen](https://swagger.io/tools/swagger-codegen)
 
@@ -219,7 +220,15 @@ A curated catalog of iOS development resources
 <details>
 <summary>Developer tools</summary>
  
-
+- [SimPholders](https://simpholders.com)
+- [Sherlock](https://sherlock.inspiredcode.io/guide/)
+- [PaintCode](https://www.paintcodeapp.com)
+- [EASY iOS NSAttributedString!](https://andresinaka.github.io/Transformer/)
+- [iOS Dev Tools](https://iosdev.tools)
+- [Flawless ](https://flawlessapp.io)
+- [Status Barred](https://itunes.apple.com/us/app/status-barred/id413853485?mt=12)
+- [Chisel](https://github.com/facebook/chisel)
+- [SQLite Manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -260,5 +269,25 @@ A curated catalog of iOS development resources
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Code conversion") -->
+<details>
+<summary>Code conversion</summary>
+ 
+- [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin)
+- [Swiftify](https://swiftify.com/)
+- [iSwift](https://iswift.org/try)
 
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Code formatting") -->
+<details>
+<summary>Code formatting</summary>
+ 
+- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+`inspired by` [iosdevdirectory](https://iosdevdirectory.com)
 
