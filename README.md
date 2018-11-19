@@ -47,6 +47,17 @@ A curated catalog of iOS development resources
 <details>
 <summary>Conferences</summary>
 
+- [The Complete List of iOS/Android Conferences](https://bugfender.com/conferences/)
+- [List of cocoa conferences for iOS/macOS developers.](https://github.com/Lascorbe/CocoaConferences)
+- [SWIFT HEROES](https://swiftheroes.com)
+- [dotSwift](https://www.dotswift.io)
+- [iOS Conf SG](https://2019.iosconf.sg)
+- [Functional Swift](http://2018.funswiftconf.com)
+- [APPDEVCON](https://appdevcon.nl)
+- [CodeMobile](http://www.codemobile.co.uk)
+- [NSNorth](https://nsnorth.ca)
+- [NSSpain](https://nsspain.com)
+
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
