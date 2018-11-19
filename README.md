@@ -206,7 +206,11 @@ A curated catalog of iOS development resources
 <details>
 <summary>Awesome (source code)</summary>
  
-
+- [awesome-ios catalog (vsouza)](https://github.com/vsouza/awesome-ios)
+- [awesome-swift catalog (wolg)](https://github.com/Wolg/awesome-swift)
+- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [awesome-swift catalog (matteocrippa)](https://github.com/matteocrippa/awesome-swift)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
