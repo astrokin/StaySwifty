@@ -176,7 +176,28 @@ A curated catalog of iOS development resources
 <details>
 <summary>Podcasts</summary>
  
-
+- [Podlokda](https://itunes.apple.com/by/podcast/podlodka-podcast/id1209828744?mt=2)
+- [Fatal Error](https://fatalerror.fm/)
+- [Runtime](https://spec.fm/podcasts/runtime)
+- [iphreaks](https://devchat.tv/iphreaks/)
+- [spec](https://spec.fm/)
+- [Raywenderlich](https://www.raywenderlich.com/podcast)
+- [Inside iOS dev](http://insideiosdev.com/)
+- [appdevdiary](http://appdevdiary.com/)
+- [The Jed Mahonis Group](https://constantvariables.co/)
+- [Swift Talk](https://talk.objc.io/)
+- [Fireside Swift](https://www.firesideswift.com/)
+- [iDeveloper](http://ideveloper.co/)
+- [independence](https://independence.fm/)
+- [coreint](https://coreint.org/)
+- [iosdevbreak](http://iosdevbreak.com/)
+- [mtjc](http://www.mtjc.fm/)
+- [sharedinstance](http://sharedinstance.com/)
+- [stacktracepodcast](https://stacktracepodcast.fm/)
+- [swiftbysundell](https://www.swiftbysundell.com/podcast/)
+- [swiftovercoffee](https://anchor.fm/swiftovercoffee)
+- [radar](https://www.relay.fm/radar)
+- [waitingforreview](https://waitingforreview.com/)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -216,3 +237,4 @@ A curated catalog of iOS development resources
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
+
