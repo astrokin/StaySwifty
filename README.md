@@ -25,7 +25,13 @@ A curated catalog of iOS development resources
 <summary>Code Autogeneration</summary>
  
 - Swift
+	* [Natalie - Storyboard Code Generator](https://github.com/krzyzanowskim/Natalie)
+	* [SwiftGen](https://github.com/SwiftGen/SwiftGen)
+	* [Sourcery](https://github.com/krzysztofzablocki/Sourcery)
+	* [Swagger Codegen](https://swagger.io/tools/swagger-codegen)
+	* [GYB](https://nshipster.com/swift-gyb)
 - Objective-C
+	* [Swagger Codegen](https://swagger.io/tools/swagger-codegen)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
