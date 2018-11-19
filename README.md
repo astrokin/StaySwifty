@@ -1,5 +1,5 @@
 # SwiftFitness
-A curated catalog of iOS development resources
+A curated catalog of iOS development resources `inspired by` [iosdevdirectory](https://iosdevdirectory.com)
 
 ## Table of Contents
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Code Style") -->
@@ -288,6 +288,4 @@ A curated catalog of iOS development resources
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
-
-`inspired by` [iosdevdirectory](https://iosdevdirectory.com)
 
