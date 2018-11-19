@@ -1,4 +1,4 @@
-# SwiftFitness
+# StaySwifty
 A curated catalog of iOS development resources inspired by [iosdevdirectory](https://iosdevdirectory.com)
 
 ## Table of Contents
