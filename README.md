@@ -242,8 +242,23 @@ A curated catalog of iOS development resources
 <details>
 <summary>Books</summary>
  
+- [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language-swift-4-2/id881256329?mt=11)
+- [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11)
+- [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Newsletter") -->
+<details>
+<summary>Newsletter</summary>
+ 
+- [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter)
+- [AppCoda Weekly](http://digest.appcoda.com)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+
 
