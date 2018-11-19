@@ -228,7 +228,12 @@ A curated catalog of iOS development resources
 <details>
 <summary>Developer Course</summary>
  
-
+- [Stanford iTunes U](http://itunes.stanford.edu/)
+- [Harvard CS50](https://www.youtube.com/user/cs50tv)
+- [GeekBrains](https://www.youtube.com/user/progliveru/featured)
+- [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=iOS)
+- [Ray Wenderlich](https://www.raywenderlich.com/)
+- [Alex Skutarenko](https://www.youtube.com/user/AlexSkutarenko)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
