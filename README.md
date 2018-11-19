@@ -65,6 +65,16 @@ A curated catalog of iOS development resources
 <details>
 <summary>Youtube</summary>
 
+- [Lets Build That App, by Brian Vong](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA/videos)
+- [Ray Wenderlich official](https://www.youtube.com/user/rwenderlich)
+- [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/featured)
+- [Sean Allen](https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw)
+- [CodeWithChris](https://www.youtube.com/user/CodeWithChris/featured)
+- [CocoaHeads(Rus)](https://www.youtube.com/channel/UCPZtkJkHv_3pPC0veurLQ6Q/featured)
+- [Mark Moeykens](https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg/featured)
+- [Jared Davidson](https://www.youtube.com/user/Archetapp)
+- [David Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA/featured)
+
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
