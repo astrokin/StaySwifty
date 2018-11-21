@@ -31,6 +31,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 	* [Swagger Codegen](https://swagger.io/tools/swagger-codegen)
 	* [GYB](https://nshipster.com/swift-gyb)
 	* [SwiftColorGen](https://github.com/fernandodelrio/SwiftColorGen)
+	* [R.Swift](https://github.com/mac-cain13/R.swift)
 - Objective-C
 	* [Swagger Codegen](https://swagger.io/tools/swagger-codegen)
 
