@@ -8,7 +8,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
  
 - Swift
   * [Github](https://github.com/github/objective-c-style-guide)
-  * [Raywenderlich](https://github.com/raywenderlich/objective-c-style-guide)
+  * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide)
   * [Google](https://google.github.io/swift)
   * [LinkedIn](https://github.com/linkedin/swift-style-guide)
   * [Apple](https://swift.org/documentation/api-design-guidelines)
@@ -178,7 +178,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 <details>
 <summary>Podcasts</summary>
  
-- [Podlokda](https://itunes.apple.com/by/podcast/podlodka-podcast/id1209828744?mt=2)
+- [Podlodka](https://itunes.apple.com/by/podcast/podlodka-podcast/id1209828744?mt=2)
 - [Fatal Error](https://fatalerror.fm/)
 - [Runtime](https://spec.fm/podcasts/runtime)
 - [iphreaks](https://devchat.tv/iphreaks/)
@@ -230,6 +230,8 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Status Barred](https://itunes.apple.com/us/app/status-barred/id413853485?mt=12)
 - [Chisel](https://github.com/facebook/chisel)
 - [SQLite Manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/)
+- [Periphery](https://peripheryapp.com)
+- [Unused](https://github.com/PaulTaykalo/swift-scripts)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -255,7 +257,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language-swift-4-2/id881256329?mt=11)
 - [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11)
 - [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
-
+- [Swift Programming: The Big Nerd Ranch Guide (Big Nerd Ranch Guides)](https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/0134398017)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -286,6 +288,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 <summary>Code formatting</summary>
  
 - [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
+- [SwiftLint](https://github.com/realm/SwiftLint)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
