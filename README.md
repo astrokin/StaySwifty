@@ -222,6 +222,8 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 <summary>Developer tools</summary>
  
 - [SimPholders](https://simpholders.com)
+- [iSimulator](https://github.com/wigl/iSimulator)
+- [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/#)
 - [Sherlock](https://sherlock.inspiredcode.io/guide/)
 - [PaintCode](https://www.paintcodeapp.com)
 - [EASY iOS NSAttributedString!](https://andresinaka.github.io/Transformer/)
@@ -232,6 +234,10 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [SQLite Manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/)
 - [Periphery](https://peripheryapp.com)
 - [Unused](https://github.com/PaulTaykalo/swift-scripts)
+- [Bezier visualizer](http://acegikmo.com/bezier/)
+- [Komondor](https://github.com/orta/Komondor)
+- [XcodeWay](https://github.com/onmyway133/XcodeWay)
+- [Injection](http://johnholdsworth.com/injection.html)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -268,6 +274,18 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
  
 - [Awesome iOS Newsletter](https://ios.libhunt.com/newsletter)
 - [AppCoda Weekly](http://digest.appcoda.com)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Daily tips") -->
+<details>
+<summary>Daily tips</summary>
+ 
+- [Swift-Daily-Tips](https://github.com/MobileTipsters/Swift-Daily-Tips)
+- [SwiftTips by JohnSundell](https://github.com/JohnSundell/SwiftTips)
+- [SwiftTips by Luur](https://github.com/Luur/SwiftTips)
+- [swift-tips by vincent-pradeilles](https://github.com/vincent-pradeilles/swift-tips)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
