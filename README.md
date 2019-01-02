@@ -238,6 +238,15 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Komondor](https://github.com/orta/Komondor)
 - [XcodeWay](https://github.com/onmyway133/XcodeWay)
 - [Injection](http://johnholdsworth.com/injection.html)
+- [CodeScene](https://codescene.io/plans)
+- [Kite](https://kiteapp.co)
+- [Reveal](https://revealapp.com)
+- [Bezier](http://acegikmo.com/bezier/)
+- [Dash](https://kapeli.com/dash)
+- [Charles](https://www.charlesproxy.com)
+- [Paw](https://paw.cloud)
+- [AppCode](https://www.jetbrains.com/objc/)
+
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -252,6 +261,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Udemy](https://www.udemy.com/courses/search/?src=ukw&q=iOS)
 - [Ray Wenderlich](https://www.raywenderlich.com/)
 - [Alex Skutarenko](https://www.youtube.com/user/AlexSkutarenko)
+- [Maxim Vialyx](https://medium.com/@vialyx)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
