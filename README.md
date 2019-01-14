@@ -243,7 +243,6 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [CodeScene](https://codescene.io/plans)
 - [Kite](https://kiteapp.co)
 - [Bezier](http://acegikmo.com/bezier/)
-- [Dash](https://kapeli.com/dash)
 - [Charles](https://www.charlesproxy.com)
 - [Paw](https://paw.cloud)
 - [AppCode](https://www.jetbrains.com/objc/)
@@ -348,6 +347,8 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
  
 - [gitkraken](https://www.gitkraken.com)
 - [sourcetreeapp](https://www.sourcetreeapp.com)
+- [trailer](https://github.com/ptsochantaris/trailer)
+- [gitscout](https://gitscout.com)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -357,6 +358,21 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 <summary>Presentation tools</summary>
  
 - [pliim](https://github.com/zehfernandes/pliim)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Productive tools") -->
+<details>
+<summary>Productive tools</summary>
+ 
+- [ModMove](https://github.com/keith/ModMove)
+- [Terminal Mac Cheatsheet](https://github.com/durul/terminal-mac-cheatsheet)
+- [Teletype](https://github.com/atom/teletype)
+- [Zsh](https://www.zsh.org/)
+- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Dash](https://kapeli.com/dash)
+- [Alfredapp](https://www.alfredapp.com)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
