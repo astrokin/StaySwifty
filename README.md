@@ -225,6 +225,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [iSimulator](https://github.com/wigl/iSimulator)
 - [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/#)
 - [Sherlock](https://sherlock.inspiredcode.io/guide/)
+- [Reveal](https://revealapp.com)
 - [PaintCode](https://www.paintcodeapp.com)
 - [EASY iOS NSAttributedString!](https://andresinaka.github.io/Transformer/)
 - [iOS Dev Tools](https://iosdev.tools)
@@ -232,6 +233,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Status Barred](https://itunes.apple.com/us/app/status-barred/id413853485?mt=12)
 - [Chisel](https://github.com/facebook/chisel)
 - [SQLite Manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/)
+- [Liya](https://itunes.apple.com/us/app/liya/id455484422?mt=12)
 - [Periphery](https://peripheryapp.com)
 - [Unused](https://github.com/PaulTaykalo/swift-scripts)
 - [Bezier visualizer](http://acegikmo.com/bezier/)
@@ -240,12 +242,20 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Injection](http://johnholdsworth.com/injection.html)
 - [CodeScene](https://codescene.io/plans)
 - [Kite](https://kiteapp.co)
-- [Reveal](https://revealapp.com)
 - [Bezier](http://acegikmo.com/bezier/)
 - [Dash](https://kapeli.com/dash)
 - [Charles](https://www.charlesproxy.com)
 - [Paw](https://paw.cloud)
 - [AppCode](https://www.jetbrains.com/objc/)
+- [iOS Project Template](https://github.com/pgorzelany/iOS-project-template)
+- [Fastlane](https://fastlane.tools)
+- [Cacher](https://www.cacher.io)
+- [Watchdog](https://www.cerebralgardens.com/watchdog)
+- [Themeinstaller](https://itunes.apple.com/us/app/themeinstaller/id1148208665?mt=12)
+- [Checker](http://christian-kienle.de/apps/checker/)
+- [Easy APNs Provider](https://itunes.apple.com/us/app/easy-apns-provider-push-notification-service-testing-tool/id989622350?mt=12)
+- [Houston](https://github.com/nomad/houston)
+- [Mockable](https://www.mockable.io/pricing)
 
 
 </details>
@@ -274,6 +284,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Intro to App Development with Swift](https://itunes.apple.com/us/book/intro-to-app-development-with-swift/id1118575552?mt=11)
 - [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 - [Swift Programming: The Big Nerd Ranch Guide (Big Nerd Ranch Guides)](https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/0134398017)
+- [Rambler library](https://github.com/rambler-ios/team/blob/master/team/literature.md)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -317,6 +328,35 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
  
 - [SwiftFormat](https://github.com/nicklockwood/SwiftFormat)
 - [SwiftLint](https://github.com/realm/SwiftLint)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="iOS Knowledge Catalogues") -->
+<details>
+<summary>iOS Knowledge Catalogues</summary>
+ 
+- [iosdevdirectory](https://iosdevdirectory.com)
+- [iosstash](http://iosstash.io)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Version control systems (VCS) tools") -->
+<details>
+<summary>Version control systems (VCS) tools</summary>
+ 
+- [gitkraken](https://www.gitkraken.com)
+- [sourcetreeapp](https://www.sourcetreeapp.com)
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Presentation tools") -->
+<details>
+<summary>Presentation tools</summary>
+ 
+- [pliim](https://github.com/zehfernandes/pliim)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
