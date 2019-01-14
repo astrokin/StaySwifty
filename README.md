@@ -213,6 +213,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 - [awesome-swift catalog (matteocrippa)](https://github.com/matteocrippa/awesome-swift)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [ioscookies](https://ioscookies.com)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -255,7 +256,8 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Easy APNs Provider](https://itunes.apple.com/us/app/easy-apns-provider-push-notification-service-testing-tool/id989622350?mt=12)
 - [Houston](https://github.com/nomad/houston)
 - [Mockable](https://www.mockable.io/pricing)
-
+- [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit)
+- [Fakery](https://github.com/durul/Fakery)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -337,6 +339,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
  
 - [iosdevdirectory](https://iosdevdirectory.com)
 - [iosstash](http://iosstash.io)
+- [Marketing For Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -349,6 +352,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [sourcetreeapp](https://www.sourcetreeapp.com)
 - [trailer](https://github.com/ptsochantaris/trailer)
 - [gitscout](https://gitscout.com)
+- [gitsome](https://github.com/donnemartin/gitsome)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -373,6 +377,11 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Dash](https://kapeli.com/dash)
 - [Alfredapp](https://www.alfredapp.com)
+- [Zoommyapp](http://zoommyapp.com)
+- [Rescuetime](https://www.rescuetime.com)
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake/releases)
+- [Bartender 3](https://www.macbartender.com)
+
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
