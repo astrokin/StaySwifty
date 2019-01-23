@@ -381,7 +381,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [Rescuetime](https://www.rescuetime.com)
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake/releases)
 - [Bartender 3](https://www.macbartender.com)
-
+- [Shift](https://tryshift.com/referral/e/f80e/alestro.iapps.by/)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
