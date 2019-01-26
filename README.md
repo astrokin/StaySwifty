@@ -178,6 +178,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 <details>
 <summary>Podcasts</summary>
  
+- [Swift Community Podcast](https://www.swiftcommunitypodcast.org)
 - [Podlodka](https://itunes.apple.com/by/podcast/podlodka-podcast/id1209828744?mt=2)
 - [Fatal Error](https://fatalerror.fm/)
 - [Runtime](https://spec.fm/podcasts/runtime)
