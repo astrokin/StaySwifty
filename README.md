@@ -405,13 +405,18 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Slack") -->
 <details>
 <summary>Slack</summary>
+	
+- [Cocoa-Developers](https://cocoa-developers.slack.com/home)
+- [iOS Developers](https://ios-developers.slack.com)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Telegram") -->
 <details>
-<summary>Slack</summary>
+<summary>Telegram</summary>
+
+- [iOS Dev](https://t.me/iosdevio)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
