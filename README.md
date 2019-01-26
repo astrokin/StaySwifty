@@ -143,8 +143,6 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 <details>
 <summary>Conferences</summary>
 
-- [The Complete List of iOS/Android Conferences](https://bugfender.com/conferences/)
-- [List of cocoa conferences for iOS/macOS developers.](https://github.com/Lascorbe/CocoaConferences)
 - [SWIFT HEROES](https://swiftheroes.com)
 - [dotSwift](https://www.dotswift.io)
 - [iOS Conf SG](https://2019.iosconf.sg)
@@ -153,6 +151,23 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 - [CodeMobile](http://www.codemobile.co.uk)
 - [NSNorth](https://nsnorth.ca)
 - [NSSpain](https://nsspain.com)
+- [Swift Alps](https://theswiftalps.com/)
+- [Pragma](http://www.pragmaconference.com/)
+- [Swiftconf](https://swiftconf.com/)
+- [Swift & Fika](http://www.swiftandfika.com/)
+- [try! Swift](https://www.tryswift.co/events/2019/nyc/)
+- [360 iDev](http://360idev.com/)
+- [Swift Island](https://swiftisland.nl/)
+- [ADDC](https://addconf.com/2019/)
+- [Swift Aveiro](https://swiftaveiro.xyz/)
+- [UIKonf](http://www.uikonf.com/)
+- [App Builders](https://appbuilders.ch/)
+- [Swift by Midwest](https://swiftbymidwest.com/)
+- [iOSCon](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers)
+- [AppDevCon](https://appdevcon.nl/)
+- [Mobos](http://romobos.com/)
+- [The Complete List of iOS/Android Conferences](https://bugfender.com/conferences/)
+- [List of cocoa conferences for iOS/macOS developers.](https://github.com/Lascorbe/CocoaConferences)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
@@ -387,3 +402,16 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
 
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Slack") -->
+<details>
+<summary>Slack</summary>
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Telegram") -->
+<details>
+<summary>Slack</summary>
+
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
