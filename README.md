@@ -12,6 +12,7 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
   * [Google](https://google.github.io/swift)
   * [LinkedIn](https://github.com/linkedin/swift-style-guide)
   * [Apple](https://swift.org/documentation/api-design-guidelines)
+  * [Airbnb](https://github.com/airbnb/swift)
 - Objective-C
   * [NYTimes](https://github.com/NYTimes/objective-c-style-guide)
   * [Github](https://github.com/github/objective-c-style-guide)
