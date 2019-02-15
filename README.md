@@ -1,7 +1,4 @@
-# StaySwifty
-A curated catalog of iOS development resources inspired by [iosdevdirectory](https://iosdevdirectory.com)
-
-## Table of Contents
+## StaySwifty
 <!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Code Style") -->
 <details>
 <summary>Code Style</summary>
@@ -421,3 +418,6 @@ A curated catalog of iOS development resources inspired by [iosdevdirectory](htt
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+A curated catalog of iOS development resources inspired by [iosdevdirectory](https://iosdevdirectory.com)
+
