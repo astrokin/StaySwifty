@@ -272,6 +272,8 @@
 - [Mockable](https://www.mockable.io/pricing)
 - [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit)
 - [Fakery](https://github.com/durul/Fakery)
+- [CIFilter](CIFilter.io)
+- [Lottie Editor](https://bodymovin-editor.firebaseapp.com)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
