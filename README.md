@@ -274,6 +274,7 @@
 - [Fakery](https://github.com/durul/Fakery)
 - [CIFilter](CIFilter.io)
 - [Lottie Editor](https://bodymovin-editor.firebaseapp.com)
+- [Contrast Ratio](https://contrast-ratio.com)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
