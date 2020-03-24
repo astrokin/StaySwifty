@@ -228,6 +228,7 @@
 - [awesome-swift catalog (matteocrippa)](https://github.com/matteocrippa/awesome-swift)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [ioscookies](https://ioscookies.com)
+- [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 </details>
 <!-- AUTO-GENERATED-CONTENT:END -->
